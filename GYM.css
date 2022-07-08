@@ -1,0 +1,66 @@
+.heading{
+    font-size: xxx-large;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif, sans-serif;  
+    margin-top:95px;
+    margin-left:32px; 
+    color:rgba(95, 248, 0, 255);
+    display: inline;
+}
+.image{
+    height:150px;
+}
+.home{
+    margin-top:50px;
+    font-size: xx-large;
+    background-color: transparent;
+    border-radius:5px;
+    margin-left:100px;   
+    padding:10px;  
+    border:rgb(173, 173, 173) 3px solid;   
+}
+.home:hover{
+    margin-top:70px;
+    font-size:40px;
+    background-color: transparent;
+    border-radius: 20px;
+    margin-left: 100px;
+    padding: 10px;
+    transition:1s; 
+    display: inline;
+}
+.login{
+    margin: 500px;
+    
+}
+.name{
+    font-size: xxx-large;
+    width:48%;
+    height:70px;
+    margin-right:40px;
+    margin-top:100px;    
+}
+.addres{
+    font-size: xxx-large;
+    width:100%;
+    margin-top:30px;
+    
+}
+.datetime{
+    font-size: xx-large;
+    width: 48%;
+    height:70px;
+    margin-top:100px;
+    padding-top:1px;
+}
+.num{
+        font-size:xxx-large;
+        width:48%;
+        margin-top:50px;
+        margin-left:20px;
+}
+.number {
+    font-size:500%;
+    margin-left:23%;
+    color: rgba(173, 173, 173);
+    margin-top:18%;
+}
